@@ -1,0 +1,6 @@
+# your token
+token = ""
+# apiHome is https://api.github.com or https://yourgheserver/api/v3
+apiHome = "https://api.github.com"
+# serverType is github or ghe (Github enterprise server)
+serverType = "github"
